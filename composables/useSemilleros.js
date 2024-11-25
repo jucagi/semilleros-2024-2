@@ -10,7 +10,7 @@ import data from '@/static/semilleros.json'
 export const useSemilleros = () => {
     const semilleros = ref([])
 
-    semilleros.value = data.value
+    semilleros.value = data
 
     const obtenerSemillero = (indice) => {
         return semilleros.value[indice]
