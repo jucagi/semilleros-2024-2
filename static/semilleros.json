@@ -1,0 +1,604 @@
+[
+    {
+        "id": 1,
+        "facultad": "Educación y ciencias humanas",
+        "programa": "Licenciatura en Informática",
+        "nombre": "Laboratorio de Sistemas Inteligentes en Educación",
+        "grupo": "EdutLan",
+        "tematicas":
+            [
+            "Diseño e implementación de sistemas inteligentes para la educación",
+            "Aplicación de la inteligencia artificial en el aprendizaje personalizado",
+            "Desarrollo de entornos de aprendizaje virtuales y adaptativos",
+            "Análisis de datos educativos para la mejora de la enseñanza",
+            "Investigación sobre las tendencias en tecnología educativa y su impacto en la educación"
+            ],
+        "mision": "Formar estudiantes investigadores en el campo de los sistemas inteligentes en educación, capaces de generar conocimiento y propuestas innovadoras que contribuyan a la mejora de la calidad educativa.",
+        "vision": "Ser un semillero de investigación reconocido a nivel nacional por su liderazgo en la generación de conocimiento y la aplicación de sistemas inteligentes para la educación.",
+        "objetivoGeneral": "Fortalecer las competencias investigativas de los estudiantes en el área de los sistemas inteligentes en educación, a través del desarrollo de proyectos de investigación que respondan a las necesidades del contexto educativo actual.",
+        "objetivosEspecificos": 
+            [
+            "Diseño e implementación de sistemas inteligentes para la educación.",
+            "Aplicación de la inteligencia artificial en el aprendizaje personalizado.",
+            "Desarrollo de entornos de aprendizaje virtuales y adaptativos.",
+            "Análisis de datos educativos para la mejora de la enseñanza.",
+            "Investigación sobre las tendencias en tecnología educativa y su impacto en la educación."
+            ],
+        "estrategias de Trabajo": [
+            "Diseño e implementación de sistemas inteligentes para la educación.",
+            "Aplicación de la inteligencia artificial en el aprendizaje personalizado.",
+            "Desarrollo de entornos de aprendizaje virtuales y adaptativos.",
+            "Análisis de datos educativos para la mejora de la enseñanza.",
+            "Investigación sobre las tendencias en tecnología educativa y su impacto en la educación."
+            ],
+        "Requisitos de Ingreso": 
+            [
+            "Ser estudiante de pregrado de la Universidad de Córdoba.",
+            "Tener un promedio académico igual o superior a 3.5.",
+            "Demostrar interés en la investigación educativa y la tecnología educativa.",
+            "Disponibilidad de tiempo para participar en las actividades del semillero."
+            ],
+
+        "INFORMACIÓN DEL ASESOR":
+             {
+            "nombre":"Manuel Caro Piñeres",
+            "identificacion":"78029095",
+            "Nivel de Formación":"Doctor",
+            "Teléfono": "3102006299",
+            "Correo Electrónico":"manuelcaro@correo.unicordoba.edu.co"
+             },
+        "INFORMACIÓN DEL COORDINADOR": 
+             {
+            "Nombre":"María Inés Bedoya Ortega",
+            "identificación":"1003431515",
+            "Semestre":"8",
+            "Teléfono": "3022630753",
+            "Correo Electrónico":"mbedoyaortega16@correo.unicordoba.edu.co",
+            "fecha de vinculacion":"Agosto/ 2022"
+             },
+        "INTEGRANTES DEL SEMILLERO":
+        {
+            "estudiantes": 
+            [
+                {
+                    "Nombre": "María Inés Bedoya Ortega",
+                    "Identificación": "1003431515",
+                    "Nivel de Formación(Semestre)": "8",
+                    "Teléfono": "3022630753",
+                    "Correo Electronico":"mbedoyaortega16@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Agosto 2022"
+                },
+                {
+                    
+                    "Nombre": "Andreina Ojeda Márquez",
+                    "Identificación": "1003433027",
+                    "Nivel de Formación(Semestre)": "8",
+                    "Teléfono": "3003366885",
+                    "Correo Electronico":"aojedamarquez27@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Abril 2023"
+                },
+                {
+                    
+                    "Nombre": "Dayana Michell Cogollo Barba",
+                    "Identificación": "1064978573",
+                    "Nivel de Formación(Semestre)": "9",
+                    "Teléfono": "3205278333",
+                    "Correo Electronico":"dcogollobarba73@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Abril 2023"
+                },
+                {
+                    
+                    "Nombre": "Johan Mercado Fernández",
+                    "Identificación": "1001978582",
+                    "Nivel de Formación(Semestre)": "8",
+                    "Teléfono": "3006152415",
+                    "Correo Electronico":"jmercadofernandez82@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Abril 2023 "
+                },
+                {
+                    
+                    "Nombre": "Maria Camila Salgado Montiel",
+                    "Identificación": "1003309186",
+                    "Nivel de Formación(Semestre)": "9",
+                    "Teléfono": "3106485658",
+                    "Correo Electronico":"msalgadomontiel@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Octubre 2022"
+                },
+                {
+                    
+                    "Nombre": "Mayerlis Bruno Aguirre",
+                    "Identificación": "1003189153",
+                    "Nivel de Formación(Semestre)": "9",
+                    "Teléfono": "3043588711",
+                    "Correo Electronico":"mbrunoaguirre53@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Octubre 2022"
+                },
+                {
+                    
+                    "Nombre": "Duván Ruiz Benítez ",
+                    "Identificación": "1003192206",
+                    "Nivel de Formación(Semestre)": "8",
+                    "Teléfono": "3143824344",
+                    "Correo Electronico":"druizbenitez@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Dana Paola Alegría Durango",
+                    "Identificación": "1062956422",
+                    "Nivel de Formación(Semestre)": "8",
+                    "Teléfono": "3134504907",
+                    "Correo Electronico":"dalegriadurango22@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Mayo 2023"
+                },
+                {
+                    
+                    "Nombre": "Daniel Camilo Tapias Ulloa",
+                    "Identificación": "1005565344",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3195300212",
+                    "Correo Electronico":"danieltapiasacosta39@gmail.com",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Leidy Luz Rivas Ramos",
+                    "Identificación": "1068420212",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3202372269",
+                    "Correo Electronico":"rivasleidy019@gmail.com",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Jeffrey Steven Reyes Pereira",
+                    "Identificación": "1062427762",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3126084502",
+                    "Correo Electronico":"reyespereirajeffrey10d@gmail.com",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Yovanis Estiven Estrada Benavides",
+                    "Identificación": "1045495139",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3216153113",
+                    "Correo Electronico":"yovanis031999@gmail.com",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Daniel Cecilia Torres López",
+                    "Identificación": "1137974259",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3217069711",
+                    "Correo Electronico":"danielatorreslopez45@gmail.com",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Luis Angel Enamorado Salcedo",
+                    "Identificación": "1003001674",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3144052399",
+                    "Correo Electronico":"lenamoradosalcedo74@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Adriana Causil García ",
+                    "Identificación": "1030067401",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3003853636",
+                    "Correo Electronico":"acausilgarcia98@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Marzo 2023"
+                },
+                {
+                    
+                    "Nombre": "Diana Humanez Tobar",
+                    "Identificación": "1036017400",
+                    "Nivel de Formación(Semestre)": "5",
+                    "Teléfono": "3016058801",
+                    "Correo Electronico":"dhumaneztobar70@correo.unicordoba.edu.co",
+                    "fecha de vinculacion": "Marzo 2023"
+                }
+                  
+            ]
+        },
+        "INFORMACIÓN PROYECTOS":
+        [
+            {
+                "nombre del Proyecto": "Experiencias vividas de los docentes en formación con respecto a la implementación de los resultados de aprendizaje en el programa de Licenciatura en Informática como componente fundamental del currículo (Johan Mercado  y María Padilla)",
+                "tipo": "Proyecto de Investigación ",
+                "estado": "Investigación en curso ",
+                "campoSaber": "Diseño de propuestas y modelos para la incorporación e integración de las TIC y la innovación en la Educación"
+            },
+            {
+                "nombre del Proyecto": "Diseño de un modelo de actividades de aprendizaje para un sistema tutor inteligente enfocado en el desarrollo de pensamiento crítico en estudiantes de educación media. (Andreina Ojeda y Dayana Cogollo)",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Investigación en curso",
+                "campoSaber": "Diseño de propuestas y modelos para la incorporación e integración de las TIC y la innovación en la Educación"
+            },
+            {
+                "nombre del Proyecto": "Evaluación de la efectividad de aprendizaje para un sistema tutor mediante Inteligencia artificial: promoviendo el aprendizaje autónomo. (Mayerlis Bruno, María Salgado)",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Investigación en curso",
+                "campoSaber": "Innovación en tecnología educativa"
+            },
+            {
+                "nombre del Proyecto": "Desarrollando el pensamiento crítico en primera infancia: Una aventura educativa STEAM Maker. (Dana Alegría)",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Investigación en curso",
+                "campoSaber": "Diseño de propuestas y modelos para la incorporación e integración de las TIC y la innovación en la Educación"
+            },
+            {
+                "nombre del Proyecto": "Integración STEAM Maker para fomentar el pensamiento creativo en la primera infancia. (María Bedoya)",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Investigación en curso",
+                "campoSaber": "Diseño de propuestas y modelos para la incorporación e integración de las TIC y la innovación en la Educación"
+            },
+            {
+                "nombre del Proyecto": "Modelo de representación de conocimiento basado en metacognición y ontologías para la adaptación efectiva del módulo tutor de un sistema tutor inteligente a las necesidades individuales de los estudiantes de educación media. (Duván Ruiz)  ",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Investigación en curso",
+                "campoSaber": "Diseño de propuestas y modelos para la incorporación e integración de las TIC y la innovación en la Educación"
+            }
+        ],
+
+        "PUBLICACIONES REALIZADAS":
+        [
+            {"Título":""
+            },
+            {"Año":""
+            },
+            {"Medio (Revista, memoria, etc.)":""
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "facultad": "Educación y ciencias humanas",
+        "programa": "Educación Física, Recreación y Deportes",
+        "nombre": "GESTAD",
+        "grupo": "MOTRICIDAD SIGLO XXI",
+        "tematicas": [
+            "GESTIÓN DEPORTIVA",
+            "ACTIVIDAD FÍSICA",
+            "ENTRENAMIENTO DEPORTIVO"
+        ],
+        "mision": "Fomentar el interés transdisciplinar por la gestión deportiva, la actividad física y el deporte, ante los actuales impactos a previstos promoviendo el aprendizaje y realización y reflexión crítica sobre los principales retos y desafíos que enfrenta nuestra sociedad.",
+        "vision": "Formar a futuros líderes e investigadores en el campo de la gestión deportiva, la actividad física y el deporte; que estén comprometidos con el bienestar social, la inclusión y el desarrollo sostenible, utilizando sus conocimientos para contribuir a la construcción de una sociedad más justa y equitativa.",
+        "objetivoGeneral": "Fomentar el desarrollo de una cultura científica en el ámbito de la educación física, el deporte, la actividad física y la gestión de los procesos anejos.",
+        "objetivosEspecificos": [
+            "Identificar elementos teórico y metodológico de las líneas de investigación propuestas",
+            "Determinar el estado actual de las líneas de investigación establecidas en el Departamento de Educación Física",
+            "Diseñar modelos, programas y planes relacionados con las líneas de investigación"
+        ],
+        "estrategias": [
+            "Aprendizaje colaborativo",
+            "Aprendizaje basado en investigación",
+            "Seminarios",
+            "Búsqueda de información",
+            "Aplicación de instrumentos",
+            "Desarrollar trabajos de grados",
+            "Participación en eventos científicos",
+            "Participación en proyectos de investigación"
+        ],
+        "actividades": [
+            "Conferencias sobre metodologías de la investigación - Fechas:Abril, junio, Agosto, Octubre, Diciembre",
+            "Preparación teórica proyecto de investigación - Fechas:Marzo, Mayo, Julio, Septiembre, Noviembre",
+            "Aplicación de instrumentos Actividad Física - Fechas:Abril, Mayo",
+            "Elaboración del trabajo para participación en congreso - Fechas:Agosto, Septiembre",
+            "Participación en el III Congreso Internacional EDURED 2023- Fechas:Octubre",
+            "Publicación de artículo científico - Fechas:Diciembre",
+            "Balance del año - Fechas:Diciembre"
+        ],
+        "asesor": {
+            "nombre":"José Ramón Sanabria Navarro",
+            "identificacion":"623797",
+            "Nivel de Formación":"Ph.D. Ciencias del Deporte",
+            "Teléfono": "3016788469",
+            "Correo Electrónico":"josesanabrian@correo.unicordoba.edu.co"
+        },
+        "coordinador": {
+            "Nombre":"Andrés Felipe Chimá Vargas",
+            "identificación":"1003292555",
+            "Nivel de formación (Semestre)":"VII",
+            "Teléfono": "3043765330",
+            "Correo Electrónico":"chimavargasandresfelipe@gmail.com"
+
+        },
+        "integrantes": {
+            "docentes": [],
+            "egresados": [],
+            "estudiantes": [
+                {
+                    "Nombre": "Andrés Felipe Cuadrado Monterrosa",
+                    "Identificación": " ",
+                    "Nivel de Formación(Semestre)": "VII",
+                    "Teléfono": "3046284812",
+                    "Correo Electronico":"andresfex2017@gmail.com"
+      
+                  },
+                  {
+                    
+                    "Nombre": "Iván Andrés Galeano Martínez ",
+                    "Identificación": " ",
+                    "Nivel de Formación(Semestre)": "VII",
+                    "Teléfono": "3042103865",
+                    "Correo Electronico":"ivangaleano577@gmail.com"
+                  },
+                  {
+                    
+                    "Nombre": "Juan Luis De La Barrera Madero ",
+                    "Identificación": "1063135103",
+                    "Nivel de Formación(Semestre)": "VII",
+                    "Teléfono": "3046270011",
+                    "Correo Electronico":"barrerajuan532@gmail.com"
+                  },
+                  {
+                    
+                    "Nombre": "Beatriz Paola Borja Díaz",
+                    "Identificación": " ",
+                    "Nivel de Formación(Semestre)": "IX",
+                    "Teléfono": "3217993426",
+                    "Correo Electronico":"beatri.d@hotmail.com"
+                  },
+                  {
+                    
+                    "Nombre": "Germiluz Horta Martínez",
+                    "Identificación": "1003396801",
+                    "Nivel de Formación(Semestre)": "IX",
+                    "Teléfono": "3135420055",
+                    "Correo Electronico":"germihorta@gmail.com"
+                  },
+                  {
+                    
+                    "Nombre": "Ever José Villera Soto",
+                    "Identificación": "1065013231",
+                    "Nivel de Formación(Semestre)": "IX",
+                    "Teléfono": "3203272069",
+                    "Correo Electronico":"evervillera@gmail.com"
+                  },
+                  {
+                    
+                    "Nombre": "José Felipe Petro Noble",
+                    "Identificación": "1003720329",
+                    "Nivel de Formación(Semestre)": "IX",
+                    "Teléfono": "3045566312",
+                    "Correo Electronico":"jpetronoble03@gmail.com"
+                  }
+            ]
+        },
+        "proyectos": [
+            {
+                "nombre": "Modelo de actividad física para la región del Medio Zinú del Departamento de Córdoba",
+                "tipo": "Investigación",
+                "estado": "Investigación en Curso",
+                "campoSaber": "CienciasDel Deporte"
+            },
+            {
+                "nombre": "Estrategia para el aprovechamiento del tiempo libre en los estudiantes de 8vo grado de la Institución Educativa “Liceo la Pradera”",
+                "tipo": "Investigación",
+                "estado": "Investigación en Curso",
+                "campoSaber": "CienciasDel Deporte"
+            },
+            {
+                "nombre": "Análisis de las habilidades motrices básicas de los estudiantes de 9no grado de la Institución Educativa “San Francisco de Asís",
+                "tipo": "Investigación",
+                "estado": "Investigación en Curso",
+                "campoSaber": "CienciasDel Deporte"
+            }
+        ],
+        "publicaciones": []
+    },
+    {
+        "id": 3,
+        "facultad": "Educación y Ciencias Humanas",
+        "programa": "Licenciatura en Informática",
+        "nombre": "Semillero de Investigación de práctica pedagógica en educación tecnológica (SIPEDT)",
+        "grupo": "Educación, Tecnología y Lenguaje (EduTLan)",
+        "tematicas": [
+            "Diseño y desarrollo de estrategias didácticas mediadas por tecnología educativa",
+            "Evaluación de la eficacia de las prácticas pedagógicas con uso de tecnologías educativas",
+            "Formación docente en el uso de herramientas tecnológicas para la enseñanza",
+            "Innovación educativa con tecnologías emergentes",
+            "Investigación sobre las tendencias en tecnología educativa y su impacto en la educación",
+            "Conciencia metacognitiva en la práctica pedagógica"
+        ],
+        "mision": "Formar estudiantes investigadores en el campo de la práctica pedagógica con tecnología educativa, capaces de generar conocimiento y propuestas innovadoras que contribuyan a la mejora de la calidad educativa.",
+        "vision": "Ser un semillero de investigación reconocido a nivel nacional por su liderazgo en la generación de conocimiento y la aplicación de prácticas pedagógicas innovadoras con tecnología educativa.",
+        "objetivoGeneral": "Fortalecer las competencias investigativas de los estudiantes en el área de la práctica pedagógica con tecnología educativa, a través del desarrollo de proyectos de investigación que respondan a las necesidades del contexto educativo actual.",
+        "objetivosEspecificos": [
+            "Desarrollar habilidades en los estudiantes para la identificacion de problemas y necesidades educativas susceptibles de ser abordadas con tecnología educativa",
+            "Formar a los estudiantes en el diseño y desarrollo de proyectos de investigación en el campo de la práctica pedagógica con tecnología educativa",
+            "Promover la producción de conocimiento y la generación de propuestas innovadoras en el ámbito de la tecnología educativa",
+            "Incentivar la participación de los estudiantes en eventos de investigación y divulgación científica",
+            "Fortalecer la formación docente en el uso de herramientas tecnológicas para la enseñanza"
+        ],
+        "estrategias": [
+            "Seminarios de formación",
+            "Talleres metodológicos",
+            "Asesorías personalizadas",
+            "Grupos de trabajo",
+            "Participación en eventos",
+            "Publicaciones"
+        ],
+        "asesor": {
+            "nombre": "Dalia Patricia Madera Doval",
+            "identificacion": "1067952433"
+        },
+        "coordinador": {
+            "nombre": "Dalia Patricia Madera Doval",
+            "identificacion": "1067952433"
+        },
+        "integrantes": {
+            "estudiantes": [
+                {
+                    "nombre": "Luis Alberto Posada Nerio",
+                    "identificacion": "1068416593",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Raúl Andres Rangel Álvarez",
+                    "identificacion": "1003003507",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Ramón José Madrid Chica",
+                    "identificacion": "1062955323",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Laura Sofía Silva Villamil",
+                    "identificacion": "1003718160",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Sebastian De Jesus Burgos Barrera",
+                    "identificacion": "1138075036",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Leandro Dario Gaviria Angulo",
+                    "identificacion": "1003402618",
+                    "nivelAcademico": "VII"
+                },
+                {
+                    "nombre": "Juan Esteban López Álvarez",
+                    "identificacion": "1000295062",
+                    "nivelAcademico": "VII"
+                }
+            ]
+        },
+        "proyectos": [
+            {
+                "nombre": "Eficacia percibida en la planificación de clases: identificacion de estrategias didácticas en docentes en formación de Licenciatura en Informática",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Propuesta de Investigación",
+                "campoSaber": "Evaluación de la eficacia de las prácticas pedagógicas con uso de tecnologías educativas"
+            },
+            {
+                "nombre": "Evaluación de la implementación de las nuevas orientaciones curriculares del área de T&I",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Propuesta de Investigación",
+                "campoSaber": "Formación docente en el uso de herramientas tecnológicas para la enseñanza"
+            },
+            {
+                "nombre": "Preparación de educadores para la implementación de nuevas orientaciones curriculares en T&I: Un análisis de los programas de formación docente",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Propuesta de Investigación",
+                "campoSaber": "Formación docente en el uso de herramientas tecnológicas para la enseñanza"
+            },
+            {
+                "nombre": "identificacion de competencias claves para la formación integral de docentes en el área of T&I",
+                "tipo": "Proyecto de Investigación",
+                "estado": "Propuesta de Investigación",
+                "campoSaber": "Formación docente en el uso de herramientas tecnológicas para la enseñanza"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "facultad": "Educación y Ciencias Humanas",
+        "programa": "Lic. Literatura y lengua castellana",
+        "nombre": "Semillero Repensarte",
+        "grupo": "Sociedad de imaginarios e investigación (SIC)",
+        "tematicas": [
+          "Narrativas de memoria",
+          "Literatura",
+          "Estudios de la argumentación",
+          "Creación literaria",
+          "Teoría del reconocimiento"
+        ],
+        "mision": "La misión principal del semillero Repensarte es la de crear y recrear una forma de evaluación del arte la literatura y el pensamiento crítico en nuevas apuestas estéticas e investigativas que se traduzcan en argumentaciones sólidas en el campo académico y social.",
+        "vision": "La visión de Repensarte es consolidarse como un espacio líder en la producción de conocimiento crítico y literario, influenciando a nivel nacional e internacional.",
+        "objetivoGeneral": "Realizar una evaluación tanto investigativa cómo creativa en el campo del arte y la literatura todo esto desde la sociología de la literatura la sociocrítica y de la puesta en escena de la creación.",
+        "objetivosEspecificos": [
+          "Resaltar el aporte creativo tanto en la narrativa cómo en la narrativa de memoria y en otros géneros literarios y artísticos.",
+          "Generar conocimiento a partir de aportes investigativos en el ámbito de la literatura la teoría del reconocimiento y el pensamiento crítico.",
+          "Crear conciencia acerca de las problemáticas discutidas al interior del semillero sobre las nuevas posturas de los jóvenes en torno a la literatura y la creación estética."
+        ],
+        "estrategias": [
+          "conversatorios",
+          "debates",
+          "lluvia de ideas",
+          "trabajo colaborativo",
+          "ilustración",
+          "investigaciones geográficas",
+          "lectura y creación estética",
+          "divulgación de trabajos investigativos en diferentes medios digitales"
+        ],
+        "actividades": [
+          "Organización evento: encuentro estudiantes español y literatura",
+          "estudio de autor: Piedad Bonett - 1era semana de noviembre",
+          "Publicación Juan Camilo Salcedo revista Cronopio: compilación creación poética",
+          "revista #100",
+          "Creación narrativa Elizabeth Carvajal",
+          "Trabajo de Análisis: obra de Alejandra Pizarnik (Anteproyecto)",
+          "María Luisa Correa - Septiembre/Octubre",
+          "Proyecto narrativo - brandis (septiembre)",
+          "Samuel guerra publicación en Blog profesor Vincenzo Paglione docente de la universidad Università degli Studi dell'Aquila",
+          "Proyecto narrativo Katherine Méndez - octubre",
+          "Proyecciones cinematográficas"
+        ],
+        "asesor": {
+          "nombre": "Luis Fernando López Noriega",
+          "identificacion": "78746443"
+        },
+        "coordinador": {
+          "nombre": "Paula Andrea Mendoza Viloria",
+          "identificacion": "1001998931"
+        },
+        "integrantes": {
+          "docentes": [
+            {
+              "nombre": "Luis Fernando López Noriega",
+              "identificacion": "78746443",
+              "nivelAcademico": "Candidato a Doctor en letras"
+            }
+          ],
+          "egresados": [],
+          "estudiantes": [
+            {
+              "nombre": "Yaira Alejandra Villadiego Vellojin",
+              "identificacion": "1003433280",
+              "nivelAcademico": "7"
+            },
+            {
+              "nombre": "Adriana Sofía Alcalá Correa",
+              "identificacion": "1137974855",
+              "nivelAcademico": "5"
+            }
+          ]
+        },
+        "proyectos": [
+          {
+            "nombre": "Anteproyecto análisis hermenéutico de Alejandra Pizarnik.",
+            "tipo": "Proyecto de investigación",
+            "estado": "Propuesta de investigación",
+            "campoSaber": "Estudios literarios"
+          },
+          {
+            "nombre": "Amatoria de Fernando Molano Vargas en la obra Un beso de Dick y la militancia queer a través del discurso de Pedro Lemebel en Háblame de amores.",
+            "tipo": "Proyecto de investigación",
+            "estado": "Investigación en curso",
+            "campoSaber": "Estudios literarios"
+          }
+        ],
+        "publicaciones": [
+          {
+            "titulo": "Por Aquel a Quien Amé",
+            "anio": "2023",
+            "medio": "Grupo Editorial Letras Negras SAS"
+          },
+          {
+            "titulo": "Compilación de poesías",
+            "anio": "2023",
+            "medio": "Revista cronopios"
+          }
+        ]
+    }
+]
